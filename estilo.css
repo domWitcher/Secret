@@ -1,0 +1,32 @@
+.h1{
+
+    text-align: center;
+    margin-top: 50vh;
+    color: blanchedalmond;
+
+    transform: translateY(-50%);
+}
+
+.p1 {
+
+    font-size:large ;
+    color: blanchedalmond;
+}
+
+.Button_primary {
+
+   font-size: large;
+
+}
+
+.Button_secundry {
+
+    font-size: large;
+}
+
+body {
+
+   background-image: url(http://wallpapercave.com/wp/wToEEei.jpg);
+   background-size: cover;
+
+}
